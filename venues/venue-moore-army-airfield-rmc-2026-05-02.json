@@ -1,0 +1,17 @@
+{
+  "stable_id": "moore-army-airfield-rmc-2026-05-02",
+  "osm_relation_id": null,
+  "osm_way_ids": [],
+  "name": "Moore Army Airfield (RMC autocross 2026-05-02)",
+  "country": "US",
+  "configuration": "RMC course-walk capture",
+  "surface": "asphalt",
+  "length_meters": null,
+  "centerpoint": { "lat": 31.349200, "lon": -85.717800 },
+  "centerline": [],
+  "start_finish_line": [],
+  "sector_points": [],
+  "provenance": "COURSE_WALK",
+  "attribution": null,
+  "last_synced_at": null
+}
